@@ -1,4 +1,4 @@
-# Spotify Dump Exporter
+# Spotify Dump Top Tracks Exporter
 
 A lightweight, multi-threaded GUI application built with Python to query large Spotify data dumps stored in DuckDB. It filters tracks by release year, identifies the **single most popular track per artist**, and exports the **top 11,000** results globally to a CSV file.
 
